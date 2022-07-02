@@ -1,1 +1,5 @@
+<<<<<<< HEAD
  this is main third file
+=======
+ this is third file
+>>>>>>> dev
